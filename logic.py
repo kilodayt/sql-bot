@@ -127,4 +127,3 @@ class DB_Manager:
 
 if __name__ == '__main__':
     manager = DB_Manager(DATABASE)
-    manager.create_tables()
